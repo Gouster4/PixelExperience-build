@@ -1,5 +1,5 @@
 PRODUCT_PACKAGES += \
     AudioFX \
     Eleven \
-    vlc
-        
+    vlc \
+    terminal
